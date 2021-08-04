@@ -7,13 +7,13 @@ here the ERD
 
 
 TODO:
-[X] Create ERD      
+- [X] Create ERD      
     - Database Relationship      
     - Database Normalization      
-[X] Create database from Model      
+- [X] Create database from Model      
     - ORM Concept      
     - Migration Concept       
-[ ] Create Basic API to CRUD student data      
+- [ ] Create Basic API to CRUD student data      
 
 
 
